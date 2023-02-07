@@ -22,4 +22,4 @@ while principal > 0:
 
     print(total_months, ' ', total_paid,' ',principal)
 
-#print('Total paid', total_paid, ' ', total_months)
+print(f'Total paid {total_paid} in {total_months} months')
